@@ -56,6 +56,7 @@ Todos los artefactos solicitados por la guía docente se encuentran organizados 
 | **5** | **Wireframes de baja fidelidad (7 pantallas + 4 estados)** | [`APE4_Fase1/05_wireframes/`](APE4_Fase1/05_wireframes/) | Bocetos estructurados de pantallas principales (W1 a W7) y estados críticos (E1 Pago rechazado, E2 Pedido vacío, E3 Agotado, E4 Confirmar eliminación). |
 | **6** | **Documento explicativo didáctico** | [`APE4_Fase1/06_documento/APE4_Fase1_CafeU.pdf`](APE4_Fase1/06_documento/APE4_Fase1_CafeU.pdf)<br>[`APE4_Fase1_CafeU.docx`](APE4_Fase1/06_documento/APE4_Fase1_CafeU.docx) | Informe formal en PDF y DOCX con la justificación paso a paso del proceso y respuestas a las preguntas de defensa docente. |
 | **7** | **Prototipo Interactivo** | [Figma Site](https://flap-bottom-98029162.figma.site/) · [`APE4_Fase1/07_prototipo/index.html`](APE4_Fase1/07_prototipo/index.html) | Prototipo web interactivo autónomo (cero dependencias externas) que reproduce fielmente el wireflow y permite simular pedidos, modificaciones y rechazos. |
+| **8** | **Protocolo de validación y casos de prueba** | [`APE4_Fase1/08_protocolo_pruebas_usabilidad.md`](APE4_Fase1/08_protocolo_pruebas_usabilidad.md) | Casos de prueba CP-01 a CP-05, verificación de heurísticas de Nielsen y métricas proyectadas SUS y SEQ. |
 
 ---
 

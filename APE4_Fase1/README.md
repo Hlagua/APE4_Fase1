@@ -23,8 +23,9 @@ Requisito → Pantalla → Sitemap → User flow → Componentes → Wireframe
 | 3 | Dos diagramas user flow | [03_userflow_1_realizar_pedido.png](03_userflow_1_realizar_pedido.png) · [03_userflow_2_modificar_pedido.png](03_userflow_2_modificar_pedido.png) |
 | 4 | Esquema de navegación e inventario de componentes | [04_esquema_navegacion.png](04_esquema_navegacion.png) · [04_navegacion_e_inventario_componentes.md](04_navegacion_e_inventario_componentes.md) |
 | 5 | Wireframes de baja fidelidad (7 pantallas + 4 estados) | [05_wireframes/](05_wireframes/) |
-| 6 | Documento PDF con la explicación didáctica | [06_documento/APE4_Fase1_CafeU.pdf](06_documento/APE4_Fase1_CafeU.pdf) |
+| 6 | Documento PDF con la explicación didáctica | [06_documento/APE4_Fase1_CafeU.pdf](06_documento/APE4_Fase1_CafeU.pdf) · [06_documento/APE4_Fase1_CafeU.docx](06_documento/APE4_Fase1_CafeU.docx) |
 | 7 | Prototipo | Figma: https://flap-bottom-98029162.figma.site/ · Prototipo navegable: [07_prototipo/index.html](07_prototipo/index.html) |
+| 8 | Protocolo de validación y casos de prueba | [08_protocolo_pruebas_usabilidad.md](08_protocolo_pruebas_usabilidad.md) |
 
 ## Wireframes
 
